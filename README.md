@@ -19,6 +19,7 @@ UG Navigate is a desktop application for navigating the University of Ghana camp
 
 ---
 
+
 ### Installation
 
 1. **Clone the Repository**:
