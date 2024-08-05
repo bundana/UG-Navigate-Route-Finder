@@ -144,3 +144,6 @@ UG Navigate is a desktop application for navigating the University of Ghana camp
 ### License
 
 This project is licensed under the MIT License - see https://opensource.org/license/mit for details.
+
+
+
