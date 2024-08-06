@@ -82,6 +82,7 @@ UG Navigate is a desktop application for navigating the University of Ghana camp
     - `calculateRouteGreedy(Location start, Location end, Location landmark)`: Greedy approach for route calculation.
     - `calculateRouteDynamic(Location start, Location end, Location landmark)`: Dynamic approach using Floyd-Warshall algorithm.
 
+
 #### `Location`
 
 - **Purpose**: Represents a geographical location with name, latitude, and longitude.
