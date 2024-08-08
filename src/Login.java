@@ -36,7 +36,7 @@ import utils.AuthUtils;
     | - Validates login credentials using `AuthUtils.authenticate`.
     | - Provides feedback with a message dialog on successful or failed login attempts.
     | - On successful login, it opens the RouteFinder window and closes the login window.
-    |
+    | Todo: Add login with student email
     */
 
 public class Login extends JFrame {
